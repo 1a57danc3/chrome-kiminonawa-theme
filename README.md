@@ -1,6 +1,6 @@
+![](https://github.com/ky0ncheng/chrome-kiminonawa-theme/blob/master/miscsrc/kiminonawa_1.png)
 
-
-
+![](https://github.com/ky0ncheng/chrome-kiminonawa-theme/blob/master/miscsrc/kiminonawa_2.png)
 
 [安裝此主題樣式](https://www.themebeta.com/chrome/theme/633833) 
 
