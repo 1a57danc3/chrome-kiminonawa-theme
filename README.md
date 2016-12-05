@@ -4,6 +4,10 @@
 
 [安裝此主題樣式](https://www.themebeta.com/chrome/theme/633833) 
 
+5K 版本請自行使用  `chrome://extensions/` 載入擴展 kiminonawa5k。
+
+已修復 1366*768 的顯示問題。
+
 -----
 
 版權說明
